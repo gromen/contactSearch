@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/searchContact/static/css/main.516082a7.chunk.css",
+    "main.js": "/searchContact/static/js/main.0dbe5cd3.chunk.js",
+    "main.js.map": "/searchContact/static/js/main.0dbe5cd3.chunk.js.map",
+    "runtime-main.js": "/searchContact/static/js/runtime-main.0bf718e9.js",
+    "runtime-main.js.map": "/searchContact/static/js/runtime-main.0bf718e9.js.map",
+    "static/css/2.150d169a.chunk.css": "/searchContact/static/css/2.150d169a.chunk.css",
+    "static/js/2.27706f34.chunk.js": "/searchContact/static/js/2.27706f34.chunk.js",
+    "static/js/2.27706f34.chunk.js.map": "/searchContact/static/js/2.27706f34.chunk.js.map",
+    "static/js/3.79079b80.chunk.js": "/searchContact/static/js/3.79079b80.chunk.js",
+    "static/js/3.79079b80.chunk.js.map": "/searchContact/static/js/3.79079b80.chunk.js.map",
+    "index.html": "/searchContact/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/searchContact/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.516082a7.chunk.css.map": "/searchContact/static/css/main.516082a7.chunk.css.map",
+    "static/js/2.27706f34.chunk.js.LICENSE.txt": "/searchContact/static/js/2.27706f34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf718e9.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.27706f34.chunk.js",
+    "static/css/main.516082a7.chunk.css",
+    "static/js/main.0dbe5cd3.chunk.js"
+  ]
+}
